@@ -18,28 +18,31 @@ Nota(s) para entregar:
  
 ## _Screenshot_
  
-![Programa sendo executado](Imagens/image.png)
+![tela do programa](tela.png)
  
 ## _Download_
  
 Download do arquivo abaixo:
  
-[🗃 Download do arquivo .zip]
+[🗃 Download do arquivo .zip](dist/ProgramCX.zip)
  
 Para executar, utilize o comando:
  
 ```
-comando para executar
+dotnet CaixaEletronico.dll
 ```
  
 Ou, se preferir, pode dar duplo-clique no ícone do programa.
  
 ## Agradecimentos
- 
- 
+ - [Figgle](https://github.com/drewnoakes/figgle)
 - [Etec Adolpho Berezin](https://eteab.com.br)
 - [Prof. Ermogenes](https://github.com/ermogenes)
 - [Prof. Diego Neri](https://github.com/diegoneri)
  
- 
+
+### _Creator_
+- [Guilherme de Almeida Silva](https://github.com/Guialmeidasx)
+
+
 Todos direitos reservados aos criadores®™
